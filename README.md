@@ -1,4 +1,4 @@
-![*A Business Data Analyst*](https://github.com/Ibrahim4Azeez/Ibrahim4Azeez/blob/main/Back_banner.png)
+![*A Business Data Analyst*](https://github.com/Ibrahim4Azeez/Ibrahim4Azeez/blob/main/Linkedin Back banner Twitter.png )
 
 ### Hi there 👋, **I'm Ibrahim Azeez**
 #### *A Business Data Analyst*
