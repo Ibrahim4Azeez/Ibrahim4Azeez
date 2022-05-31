@@ -1,16 +1,14 @@
-### Hi there 👋
+![*A Business Data Analyst*](https://github.com/Ibrahim4Azeez/Ibrahim4Azeez/blob/main/Back_banner.png)
 
-<!--
-**Ibrahim4Azeez/Ibrahim4Azeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, **I'm Ibrahim Azeez**
+#### *A Business Data Analyst*
 
-Here are some ideas to get you started:
+I am a detail-oriented professional who has been consistently praised as efficient by my co-workers and management. Over the course of my years of experience, I’ve developed a skill set directly relevant to the Business Data Analyst such as Sales Analysis, Data Visualisation, Data Cleaning, Data Modeling, Data Presentation, and Project Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: EXCEL / POWER BI / MY SQL/ R/
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ibrahim4Azeez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahimazeez//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@zeezu004)  
+
+![Profile views](https://gpvc.arturio.dev/Ibrahim4Azeez)  
