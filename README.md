@@ -8,7 +8,7 @@ I am a detail-oriented professional who has been consistently praised as efficie
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://github.com/Ibrahim4Azeez/Ibrahim4Azeez/blob/main/Excel.png" alt="Excel" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
