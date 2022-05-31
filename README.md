@@ -10,7 +10,7 @@ I am a detail-oriented professional who has been consistently praised as efficie
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="Excel" height="50" />
+<img style="margin: 10px" src="https://github.com/Ibrahim4Azeez/Ibrahim4Azeez/blob/main/Excel.png" alt="Excel" height="50" />
 </div>
 </td><td valign="top" width="33%">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
